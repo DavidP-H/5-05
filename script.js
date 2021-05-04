@@ -1,4 +1,4 @@
-let number = 
+let number = 0
 
 document.getElementById('button').addEventListener('click', multiply)
 
